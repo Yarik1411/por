@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.link-header {
+    color: black
+}
+
+.link-nav {
+    color: rgb(10, 0, 102)
+}
