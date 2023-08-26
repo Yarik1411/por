@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <title>Белов Ярослав</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="#social">Белов Ярослав</a>
+    </header>
+    <main>
+      <nav>
+        <a class="link-nav" href="#about_me"><b>обо мне</b></a>
+        <a class="link-nav" href="#best_sites"><b>мои лучшие работы</b></a>
+        <a class="link-nav" href="info.html"><b>полезная информация</b></a>
+      </nav>
+      <h1>Web-sites<br/> developer</h1>
+      <p>разметка и стилизация</p>
+      <p>вёрстка сетчатых макетов</p>
+      <p>двумерные анимации и интерактивные элементы</p>
+      <p>мультимедиа на сайте</p>
+      <h1>Обо мне</h1>
+      <p>Я - Белов Ярослав, занимающийся созданием сайтов и программированием на Python, учащийся в 8 классе, готов брать заказы по созданию сайтов. Я изучил как создаються макеты сайтов, с чего стоит начать его создание, а так же как правильно распологать элементы внутри сайта</p>
+      <img src="https://backoffice.algoritmika.org/uploads/2021/04/carousel-1684591_0_1618254197.svg" width="830px" height="550px"/>
+      <h1 id="best_sites">Мои лучшие работы</h1>
+      <a class="sites" href="https://yarik1411.github.io/HTML_sites/">Сайт строителоной компании</a>
+      <a class="sites" href=""
+    </main>
+    <footer>
+      <a class="social" href=""><img src="https://backoffice.algoritmika.org/uploads/2021/04/social1_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="https://backoffice.algoritmika.org/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="https://backoffice.algoritmika.org/uploads/2021/04/social3_0_1618254571.png" width="100px" height="100px"/></a>
+    </footer>
+  </body>
+</html>
